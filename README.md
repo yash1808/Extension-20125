@@ -1,7 +1,7 @@
 Extension-20125
 Jokes Extension  A Simple Chrome Extension developed using HTML5, CSS, JavaScript. It is made using a website https://icanhazdadjoke.com/. It fetches the data through this website and shows the text/jokes on the Extension. For Extension default popup is used of 300px * 300px. 
  
- ![Screenshot 2022-10-03 212245](https://user-images.githubusercontent.com/101171412/193629120-858699b9-c58e-4308-94e7-15da96151146.png)
+![Screenshot 2022-10-03 215646](https://user-images.githubusercontent.com/101171412/193629741-3932d7e4-ad7c-4f4d-a8ec-6347ec08e3a6.png)
 
 Installation procees of Chrome Extension
 1)To Create a Chrome Extention the first thing is to create a manifest.json file.
